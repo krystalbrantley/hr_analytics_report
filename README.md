@@ -32,7 +32,7 @@ Key metrics and KPIs used to measure success include:
 
 ## Overarching Insights
 
-![HR Analytics Overview]()
+![HR Analytics Overview](https://github.com/krystalbrantley/hr_analytics_report/blob/main/HR%20Analytics%20Overview.png?raw=true)
 ### Attrition Rate
 - **Overall Attrition Rate:** 16.1%
 - **Department and Job Role with Highest Attrition Rate:** Sales and Sales Representative (39.8%)
@@ -47,17 +47,16 @@ Key metrics and KPIs used to measure success include:
 
 ### Demographics
 
-![HR Analytics Demographics]()
+![HR Analytics Demographics](https://github.com/krystalbrantley/hr_analytics_report/blob/main/HR%20Analytics%20Demo.png?raw=true)
 - Majority of employees are aged 20-29.
 - Employees identifying as white have the highest average salary.
 - Employees identifying as mixed or multiple ethnicities have the lowest average salary ($106K).
 - Women make up only 2.7% of the organization.
-- 
-![HR Analytics Performance Tracker]()
-
 - Managerial rating level and self-performance level often don't align.
+  
+![HR Analytics Performance Tracker](https://github.com/krystalbrantley/hr_analytics_report/blob/main/HR%20Analytics%20Performance.png?raw=true)
 
-![HR Analytics Attrition]()
+![HR Analytics Attrition](https://github.com/krystalbrantley/hr_analytics_report/blob/main/HR%20Analytics%20Attrition.png?raw=true)
 
 ## Recommendations
 1. **Support Employee Growth:**
